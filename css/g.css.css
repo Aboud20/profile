@@ -1,0 +1,426 @@
+
+
+nav {
+    background-color: #0d0d0e;
+}
+ ul li {
+    padding-left: 5px;
+     
+}
+
+.navbar-dark .navbar-nav .nav-link{
+    color: white;
+    font-family: 'Abril Fatface', cursive;
+
+    
+}
+
+.logo{
+    font-size:25px;
+    color: white;
+    text-decoration: none;
+    font-family: 'Abril Fatface', cursive;
+
+}
+
+
+
+.logo span{
+    color:#0d0d0e;
+    background-color: white;
+    font-size:25px;
+    border-radius: 20px;
+    
+}
+/*----Home---*/
+
+.HOME{
+    padding:50px 0px; 
+}
+  
+  .text-home{
+     font-family: 'Abril Fatface', cursive;
+      margin-top:30px; 
+
+}
+.text-home h4{
+    font-size:50px;
+    color:#3f3d56;
+    border-bottom:3px solid black;
+}
+
+.text-home p{
+    color:#a9a9a9;
+}
+.btn1{
+    display: inline-flex;
+    margin: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 30px;
+    padding: 10px 30px;
+    border:0px;
+     background-color:#0d0d0e;
+     color: white;
+}
+
+.btn1:hover{
+    opacity: 0.6;
+    transition:1.3s
+        
+}
+
+/*---About-----*/
+
+
+
+
+header{
+   font-family: 'Abril Fatface', cursive;
+    font-size:50px;
+    color:#3f3d56;
+    margin:10px;
+}
+
+
+
+.text-about{
+ color:#a9a9a9;
+ font-family: 'Abril Fatface', cursive;
+
+}
+
+.text-about h3{
+    font-size:26px;
+    background-color: black;
+    color:white;
+}
+
+.text-about p{
+    line-height: 3;
+    color:#a9a9a9;
+
+}
+
+.icon1 {
+    background-color: aliceblue;
+    cursor: pointer;
+}
+
+.icon1:hover{
+    background-color:white;
+    box-shadow:3px 5px 3px gray; 
+    border-radius:30px;
+    transition:0.7s
+}
+
+
+i{ font-size:30px; 
+    color:black;
+}
+
+
+/*-----team------*/
+.team{
+   padding:100px 0px; 
+}
+
+
+.card1{
+    width:250px;
+    height: 450px;
+    background-color: white;
+    border-radius:30px;
+    margin-bottom: 20px;
+    -webkit-box-shadow: 10px 5px 43px -14px #bcbabc;
+-moz-box-shadow: 10px 5px 43px -14px #bcbabc;
+box-shadow: 10px 5px 43px -14px #bcbabc
+}
+.card2{
+    width:250px;
+    height:450px;
+    background-color: white;
+    border-radius:30px; 
+    -webkit-box-shadow: 10px 5px 43px -14px #bcbabc;
+-moz-box-shadow: 10px 5px 43px -14px #bcbabc;
+box-shadow: 10px 5px 43px -14px #bcbabc;
+    
+}
+
+.card1 h3{
+    background-color: black;
+    color: white;
+    font-family: 'Abril Fatface', cursive;
+
+}
+
+.card2 h3{
+    background-color: black;
+    color: white;
+    font-family: 'Abril Fatface', cursive;
+
+}
+ 
+
+article{
+    padding:10px;
+     line-height: 3;
+    color:#a9a9a9;
+    
+}
+
+
+
+/*-----service-----*/
+.service{
+    padding:100px 0px ;
+}
+
+
+
+
+
+.card-service1{
+    width:320px;
+    height:600px; 
+     background-color:black;
+    border-radius:20px;
+
+    
+}
+
+.card-service2{
+   width:320px;
+    height:600px;
+    background-color: black;
+    border-radius:20px;
+
+    
+
+}
+
+.card-service3{
+    width:320px;
+    height:600px;
+    background-color:black;
+    border-radius:20px;
+
+    
+}
+
+.number-service1{
+    text-align: center;
+    font-size:80px;
+    font-weight: bold;
+    padding:10px;
+    border:2px solid black; 
+    border-radius:20px;
+    background-color: white;
+}
+
+.service span{
+    font-size:30px; 
+    color:green;
+}
+
+.number-service2{
+    text-align: center;
+    font-size:80px;
+    font-weight: bold;
+    padding:10px;
+    border:2px solid black; 
+    border-radius:20px;
+    background-color: white;
+}
+
+.number-service3{
+    text-align: center;
+    font-size:80px;
+    font-weight: bold;
+    padding:10px;
+    border:2px solid black; 
+    border-radius:20px;
+    background-color: white;
+}
+
+.titel-service1 .text-style{
+    font-size:35px;
+    text-align: center;
+    font-weight: bold;
+    background-color: red;
+    color: white;
+    border-radius:20px; 
+    
+}
+
+.titel-service2 .text-style{
+    font-size:35px;
+    text-align: center;
+    font-weight: bold;
+    background-color: #ffc107;
+    color: white;
+    border-radius:20px; 
+}
+
+
+.titel-service3 .text-style{
+    font-size:35px;
+    text-align: center;
+    font-weight: bold;
+    background-color:#3f3d56;
+    color: white;
+    border-radius:20px; 
+    
+}
+
+
+.text-service1 p{color:white}
+ .text-service2 p{color:white}
+.text-service3 p{color:white}
+   
+
+.btn-service1{
+   margin-top: 20px;  
+    text-align: center;
+    font-size:25px;
+    color: white;
+    background-color: red;
+    border:0px;
+    border-radius:8px; 
+}
+
+
+
+.btn-service2{
+   margin-top: 20px;  
+    text-align: center;
+    font-size:25px;
+    color: white;
+    background-color: #ffc107;
+    border:0px;
+    border-radius:8px; 
+}
+
+
+  
+
+.btn-service3{
+   margin-top: 20px;  
+    text-align: center;
+    font-size:25px;
+    color: white;
+    background-color:#3f3d56;
+    border:0px;
+    border-radius:8px; 
+}
+
+.text-service1 i {padding: 10px;}
+.text-service2 i {padding:10px;}
+.text-service3 i { padding:10px;} 
+
+/*------footer-----*/
+
+
+
+.contact{
+    margin-top:100px;
+    background-color: white;
+    background-color: black;
+    text-align: center;
+
+}
+
+
+
+input {
+    height:30px; 
+    border-radius:30px;
+    border-color: white;
+}
+
+.form-contro{
+    margin: 10px;
+    height: 50px;
+    width:70%;
+    border:0px;
+}
+
+
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+    
+    
+ .img-contr{width:100%;} 
+  
+  .text-home{
+    width:100%; 
+    padding:0px;   
+    text-align: center;  
+     
+}
+    .text-home h4{font-size:60px;}
+    .text-home p{padding:0px 20px}
+    
+    
+    
+    
+       
+    
+  .text-about{
+    width:100%; 
+    float:right;
+    padding:0px;
+      text-align: center;
+}
+    
+ .img-ab { width:100%;} 
+    
+        
+.card1{width: 300px ;margin-bottom: 80px;
+       margin-left:auto; margin-right: auto;
+    }
+   
+.card2{width:300px; 
+    margin-left: auto;
+     margin-right: auto;
+    margin-bottom: 80px;
+    } 
+        
+    
+    
+    
+    /*-----service----*/
+    
+  
+.box-service{display: table; ; background-color: white; border-radius:0;}
+    
+    
+.card-service1{ margin-right: auto; margin-bottom: 80px; margin-left: auto}
+
+.card-service2 {margin-right: auto; margin-bottom: 80px; margin-left: auto }
+   
+    .card-service3{margin-right: auto; margin-bottom: 80px; margin-left: auto}
+    
+    
+
+   
+
+   
+
+
+
+}
+    
+
+
+    
+    
+    
+    
+    
+    
